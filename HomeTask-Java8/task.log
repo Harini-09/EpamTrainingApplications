@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-15T05:10:20.150896400Z</date>
+  <millis>1676437820150</millis>
+  <nanos>896400</nanos>
+  <sequence>1</sequence>
+  <logger>Log</logger>
+  <level>INFO</level>
+  <class>FunctionalInterface2.ConsumerMethods$1</class>
+  <method>accept</method>
+  <thread>1</thread>
+  <message>Product [name=Laptop, price=1200, category=electronics, grade=prime]</message>
+</record>
+<record>
+  <date>2023-02-15T05:10:20.153897Z</date>
+  <millis>1676437820153</millis>
+  <nanos>897000</nanos>
+  <sequence>2</sequence>
+  <logger>Log</logger>
+  <level>INFO</level>
+  <class>FunctionalInterface2.ConsumerMethods$1</class>
+  <method>accept</method>
+  <thread>1</thread>
+  <message>My first log</message>
+</record>
+<record>
+  <date>2023-02-15T05:10:20.154895600Z</date>
+  <millis>1676437820154</millis>
+  <nanos>895600</nanos>
+  <sequence>3</sequence>
+  <logger>Log</logger>
+  <level>INFO</level>
+  <class>FunctionalInterface2.ConsumerMethods$1</class>
+  <method>accept</method>
+  <thread>1</thread>
+  <message>Product [name=airpods, price=3500, category=electronics, grade=choice]</message>
+</record>
+<record>
+  <date>2023-02-15T05:10:20.155895300Z</date>
+  <millis>1676437820155</millis>
+  <nanos>895300</nanos>
+  <sequence>4</sequence>
+  <logger>Log</logger>
+  <level>INFO</level>
+  <class>FunctionalInterface2.ConsumerMethods$1</class>
+  <method>accept</method>
+  <thread>1</thread>
+  <message>My first log</message>
+</record>
+<record>
+  <date>2023-02-15T05:10:20.162895300Z</date>
+  <millis>1676437820162</millis>
+  <nanos>895300</nanos>
+  <sequence>5</sequence>
+  <logger>Log</logger>
+  <level>INFO</level>
+  <class>FunctionalInterface2.ConsumerMethods$1</class>
+  <method>accept</method>
+  <thread>1</thread>
+  <message>Product [name=chips, price=110, category=snacks, grade=prime]</message>
+</record>
+<record>
+  <date>2023-02-15T05:10:20.163895700Z</date>
+  <millis>1676437820163</millis>
+  <nanos>895700</nanos>
+  <sequence>6</sequence>
+  <logger>Log</logger>
+  <level>INFO</level>
+  <class>FunctionalInterface2.ConsumerMethods$1</class>
+  <method>accept</method>
+  <thread>1</thread>
+  <message>My first log</message>
+</record>
+<record>
+  <date>2023-02-15T05:10:20.165900200Z</date>
+  <millis>1676437820165</millis>
+  <nanos>900200</nanos>
+  <sequence>7</sequence>
+  <logger>Log</logger>
+  <level>INFO</level>
+  <class>FunctionalInterface2.ConsumerMethods$1</class>
+  <method>accept</method>
+  <thread>1</thread>
+  <message>Product [name=Washing Machine, price=2000, category=Electronics, grade=prime]</message>
+</record>
+<record>
+  <date>2023-02-15T05:10:20.166896100Z</date>
+  <millis>1676437820166</millis>
+  <nanos>896100</nanos>
+  <sequence>8</sequence>
+  <logger>Log</logger>
+  <level>INFO</level>
+  <class>FunctionalInterface2.ConsumerMethods$1</class>
+  <method>accept</method>
+  <thread>1</thread>
+  <message>My first log</message>
+</record>
+<record>
+  <date>2023-02-15T05:10:20.167896200Z</date>
+  <millis>1676437820167</millis>
+  <nanos>896200</nanos>
+  <sequence>9</sequence>
+  <logger>Log</logger>
+  <level>INFO</level>
+  <class>FunctionalInterface2.ConsumerMethods$1</class>
+  <method>accept</method>
+  <thread>1</thread>
+  <message>Product [name=Rice, price=3800, category=grocerries, grade=select]</message>
+</record>
+</log>

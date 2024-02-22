@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-19T18:08:01.904125400Z</date>
+  <millis>1676830081904</millis>
+  <nanos>125400</nanos>
+  <sequence>0</sequence>
+  <logger>Log</logger>
+  <level>INFO</level>
+  <class>FunctionalInterface2.ConsumerMethods$1</class>
+  <method>accept</method>
+  <thread>1</thread>
+  <message>Product [name=Laptop, price=1200, category=electronics, grade=prime]</message>
+</record>
+<record>
+  <date>2023-02-19T18:08:01.949140500Z</date>
+  <millis>1676830081949</millis>
+  <nanos>140500</nanos>
+  <sequence>1</sequence>
+  <logger>Log</logger>
+  <level>INFO</level>
+  <class>FunctionalInterface2.ConsumerMethods$1</class>
+  <method>accept</method>
+  <thread>1</thread>
+  <message>Product [name=airpods, price=3500, category=electronics, grade=choice]</message>
+</record>
+<record>
+  <date>2023-02-19T18:08:01.950463300Z</date>
+  <millis>1676830081950</millis>
+  <nanos>463300</nanos>
+  <sequence>2</sequence>
+  <logger>Log</logger>
+  <level>INFO</level>
+  <class>FunctionalInterface2.ConsumerMethods$1</class>
+  <method>accept</method>
+  <thread>1</thread>
+  <message>Product [name=chips, price=110, category=snacks, grade=prime]</message>
+</record>
+<record>
+  <date>2023-02-19T18:08:01.951463500Z</date>
+  <millis>1676830081951</millis>
+  <nanos>463500</nanos>
+  <sequence>3</sequence>
+  <logger>Log</logger>
+  <level>INFO</level>
+  <class>FunctionalInterface2.ConsumerMethods$1</class>
+  <method>accept</method>
+  <thread>1</thread>
+  <message>Product [name=Washing Machine, price=2000, category=Electronics, grade=prime]</message>
+</record>
+<record>
+  <date>2023-02-19T18:08:01.953464200Z</date>
+  <millis>1676830081953</millis>
+  <nanos>464200</nanos>
+  <sequence>4</sequence>
+  <logger>Log</logger>
+  <level>INFO</level>
+  <class>FunctionalInterface2.ConsumerMethods$1</class>
+  <method>accept</method>
+  <thread>1</thread>
+  <message>Product [name=Rice, price=3800, category=grocerries, grade=select]</message>
+</record>
+</log>

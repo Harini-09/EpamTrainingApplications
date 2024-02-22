@@ -1,0 +1,4 @@
+com\epam\quizapplication\AuthenticationTest.class
+com\epam\quizapplication\CrudOperationsOnQuestionsTest.class
+com\epam\quizapplication\QuizAllotmentTest.class
+com\epam\quizapplication\CrudOperationsOnQuizTest.class

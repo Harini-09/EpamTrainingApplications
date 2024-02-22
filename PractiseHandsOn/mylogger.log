@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-15T13:45:33.769617Z</date>
+  <millis>1676468733769</millis>
+  <nanos>617000</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>PractiseLogging.LogExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello</message>
+</record>
+</log>
